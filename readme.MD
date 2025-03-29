@@ -35,3 +35,6 @@
 * Sonarqube
 
 # Python
+
+# Cloud
+* Azure
