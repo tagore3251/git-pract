@@ -18,3 +18,20 @@
 * Github Actions
 * JFROG Artifactory
 * Docker Images
+
+# Monitoring
+* Prometheus
+* Grafana
+* ELK
+* NewRelic
+
+# Security
+* Check Mark Sast
+* Check Mark SCA
+* MTLS
+* CIS & CVE
+* Web Firewall
+* Istio
+* Sonarqube
+
+# Python
