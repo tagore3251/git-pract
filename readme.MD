@@ -18,3 +18,9 @@
 * Github Actions
 * JFROG Artifactory
 * Docker Images
+
+# Monitoring
+* Prometheus
+* Grafana
+* ELK
+* NewRelic
