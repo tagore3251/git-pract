@@ -12,3 +12,9 @@
 * Docker
 * Kubernetes
 * Helm Charts
+
+# CICD
+* ArgoCD
+* Github Actions
+* JFROG Artifactory
+* Docker Images
