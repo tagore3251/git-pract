@@ -36,5 +36,5 @@
 
 # Python
 
-# CLOUD
-* AWS
+# Cloud
+* AWS or Azure
